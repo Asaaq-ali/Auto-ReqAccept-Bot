@@ -23,7 +23,7 @@ This Is A Telegram For Automatically Accept Chat Join Request With Broadcast &am
 
 Change template url to your repo url
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Auto-ReqAccept-Bot)             
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Asaaq-ali/Auto-ReqAccept-Bot)             
 </details>
 
 <details>
@@ -35,7 +35,7 @@ Change template url to your repo url
 4. Clone You're Repo To VPS
 
 ```
-git clone https://github.com/MrMKN/Auto-ReqAccept-Bot
+git clone https://github.com/Asaaq-ali/Auto-ReqAccept-Bot
 ```
 
 5. Make Your Repo To Private Again
